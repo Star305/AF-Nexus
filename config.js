@@ -1,16 +1,16 @@
 export default {
   "botName": "Nexus",
   "prefix": ".",
-  "nickname": "Nexusbot",
+  "nickname": "Star Ai",
   "adminIds": [
-    "100062160914296",
-    "61557780285734",
-    "100075528791428",
-    "61571509256532"
+    "100054837009262",
+    "",
+    "",
+    ""
   ],
   "facebookAccount": {
-    "email": "bultelakku@gufum.com",
-    "password": "asta@0123"
+    "email": "emmanuelokeh34@gmail.com",
+    "password": "emmanuel19."
   },
   "logging": {
     "messageObjects": true

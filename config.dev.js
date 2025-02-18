@@ -1,4 +1,4 @@
-{
+export default{
   "botName": "Nexus",
   "prefix": ".",
   "nickname": "Star Ai",

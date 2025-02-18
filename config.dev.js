@@ -1,4 +1,4 @@
-export default {
+{
   "botName": "Nexus",
   "prefix": ".",
   "nickname": "Star Ai",
@@ -9,7 +9,7 @@ export default {
     ""
   ],
   "facebookAccount": {
-    "email": "emmanuelokeh34@gmail.com",
+    "email": "09060245012",
     "password": "emmanuel19."
   },
   "logging": {

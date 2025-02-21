@@ -5,7 +5,7 @@ export default {
 category: ' info',
     usage: '(prefix)about',
     permission: 0,
-    author: "Frank kaumba x Asta"
+    author: "Emmanuel okeh"
   },
 
   Nexus: async ({ nexusMessage }) => {
@@ -17,12 +17,10 @@ category: ' info',
 ┃ 🌟 Version: 1.0.0
 ┃ 🔧 Prefix: .
 ┃
-┃ 👑 𝙾𝚆𝙽𝙴𝚁𝚂:
-┃ • Frank (EfkidTrapGamer)
-┃   └╼ https://www.facebook.com/Efkidtrapgamer
-┃ • Asta (Femi)
-┃   └╼ https://www.facebook.com/femi.gbemi.58
-┃
+┃ 👑 𝙾𝚆𝙽𝙴𝚁:
+┃ • Emmanuel okeh
+┃ • 
+┃   └╼ https://www.facebook.com/emmanuel.okeh.73744
 ┃ 📚 𝚁𝙴𝚂𝙾𝚄𝚁𝙲𝙴𝚂:
 ┃ • GitHub: https://github.com
 ┃ • Commands: Use help cmd

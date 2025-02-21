@@ -27,11 +27,9 @@ category: 'info',
 ┃ ⚡ Prefix: ${global.prefix}
 ┃ 📡 Platform: NodeJS
 ┃
-┃ 👑 𝙾𝚆𝙽𝙴𝚁𝚂:
-┃ • Frank (EfkidTrapGamer)
-┃   └╼ https://www.facebook.com/Efkidtrapgamer
-┃ • Asta (Seyi)
-┃   └╼ https://www.facebook.com/femi.gbemi.58
+┃ 👑 𝙾𝚆𝙽𝙴𝚁:
+┃ • Emmanuel okeh
+┃   └╼ https://www.facebook.com/emmanuel.okeh.73744
 ┃
 ┃ ⌚ 𝚄𝙿𝚃𝙸𝙼𝙴:
 ┃ • ${hours}h ${minutes}m ${seconds}s
